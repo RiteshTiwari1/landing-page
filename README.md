@@ -1,4 +1,4 @@
-# Vutto Landing Page
+# Landing Page
 
 A responsive landing page for Vutto, a motorcycle buying and selling platform.
 
